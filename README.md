@@ -1,6 +1,6 @@
 # Voicele - Language-based Guessing Game
 
-My Bachelor's Project: a game with interactive and learning elements, as well as the possibility to create a profit by running advertisements on the side. Backend implemented using Django, and its REST Framework to handle API calls and responses. Used Google's AI to perform text-to-speech. Chose React, React Router and MaterialUI for frontend component-based application building, routing and styling. Used Webpack to increase performance and loading speed by bundling files together and Babel to achieve compatibility with older browsers that run ES5.
+My Bachelor's Project: a game with interactive and learning elements, as well as the possibility to create a profit by running advertisements on the side. Backend implemented using Django, and its REST Framework to handle API calls and responses. Used Google's AI to perform text-to-speech. Chose React, React Router and MaterialUI for frontend component-based application building, routing and styling. Used Webpack to increase performance and loading speed by bundling files together and Babel to achieve compatibility with older browsers that run ES5. Implemented Responsive Design, elements changing their sizes based on window size.
 
 Home Page showing the User that Logged In
 <img src="/imagesForGithub/homepageLogged.png"/>
